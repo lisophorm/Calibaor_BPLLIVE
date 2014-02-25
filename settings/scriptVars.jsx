@@ -1,0 +1,15 @@
+﻿var appPath="C:\\Users\\Alfonso\\Desktop\\calibrator\\"
+var RGre=40
+var RBlk=20
+var AGre=100
+var STsp=100
+var SKTp=70
+var ABGl=100
+var cupX=292.6
+var cupY=8.05
+var cupW=172.8
+var cupH=292.2
+var cropX=176.5
+var cropY=120.15
+var cropW=445
+var cropH=482

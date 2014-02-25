@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="handle-hints/control-arrow-scale" itemID="4862ce68-000001cc" linkageExportForAS="true" linkageClassName="HandleHintScale" sourceFlashFilepath="..:..:..:..:..:..:..:Substance/TB07_027/production/scrapbook/scrapbook-admin.fla" sourceLibraryItemHRef="handle-hints/control-arrow-scale" sourceLastModified="1214440513" lastModified="1218173825" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="control-arrow-scale">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="handle-hints/control-arrow-scale.png">
+                  <matrix>
+                    <Matrix tx="-6.5" ty="-14.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

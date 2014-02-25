@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="handle-hints/control-arrow-spin" itemID="4862d680-0000049f" linkageExportForAS="true" linkageClassName="HandleHintRotate" sourceFlashFilepath="..:..:..:..:..:..:..:Substance/TB07_027/production/scrapbook/scrapbook-admin.fla" sourceLibraryItemHRef="handle-hints/control-arrow-spin" sourceLastModified="1214440592" lastModified="1218173836" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="control-arrow-spin">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="handle-hints/control-arrow-spin.png">
+                  <matrix>
+                    <Matrix tx="-8.5" ty="-12.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
